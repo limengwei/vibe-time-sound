@@ -1,0 +1,131 @@
+{
+  "categories": {
+    "animals": {
+      "title": "动物",
+      "emoji": "🐾"
+    },
+    "binaural": {
+      "title": "双耳节拍",
+      "emoji": "🧠"
+    },
+    "nature": {
+      "title": "自然",
+      "emoji": "🌿"
+    },
+    "noise": {
+      "title": "噪音",
+      "emoji": "🌫️"
+    },
+    "places": {
+      "title": "场所",
+      "emoji": "🏠"
+    },
+    "rain": {
+      "title": "雨声",
+      "emoji": "🌧️"
+    },
+    "things": {
+      "title": "物品",
+      "emoji": "🔔"
+    },
+    "transport": {
+      "title": "交通",
+      "emoji": "🚆"
+    },
+    "urban": {
+      "title": "城市",
+      "emoji": "🏙️"
+    }
+  },
+  "labels": {
+    "airplane": "飞机",
+    "airport": "机场",
+    "ambulance-siren": "救护车",
+    "beehive": "蜂巢",
+    "binaural-alpha": "Alpha 波",
+    "binaural-beta": "Beta 波",
+    "binaural-delta": "Delta 波",
+    "binaural-gamma": "Gamma 波",
+    "binaural-theta": "Theta 波",
+    "birds": "鸟鸣",
+    "boiling-water": "沸水",
+    "brown-noise": "棕色噪音",
+    "bubbles": "气泡",
+    "busy-street": "繁忙街道",
+    "cafe": "咖啡厅",
+    "campfire": "篝火",
+    "carousel": "旋转木马",
+    "cat-purring": "猫咪呼噜",
+    "ceiling-fan": "吊扇",
+    "chickens": "鸡鸣",
+    "church": "教堂",
+    "clock": "时钟",
+    "construction-site": "工地",
+    "cows": "牛叫",
+    "crickets": "蟋蟀",
+    "crowd": "人群",
+    "crowded-bar": "喧闹酒吧",
+    "crows": "乌鸦",
+    "dog-barking": "狗吠",
+    "droplets": "水滴",
+    "dryer": "烘干机",
+    "fireworks": "烟花",
+    "frog": "蛙鸣",
+    "heavy-rain": "大雨",
+    "highway": "高速公路",
+    "horse-gallop": "马蹄",
+    "howling-wind": "呼啸风",
+    "inside-a-train": "火车内",
+    "jungle": "丛林",
+    "keyboard": "键盘",
+    "laboratory": "实验室",
+    "laundry-room": "洗衣房",
+    "library": "图书馆",
+    "light-rain": "小雨",
+    "morse-code": "摩斯电码",
+    "night-village": "夜村",
+    "office": "办公室",
+    "owl": "猫头鹰",
+    "paper": "纸张",
+    "pink-noise": "粉色噪音",
+    "rain-on-car-roof": "车顶雨",
+    "rain-on-leaves": "叶上雨",
+    "rain-on-tent": "帐篷雨",
+    "rain-on-umbrella": "伞上雨",
+    "rain-on-window": "窗上雨",
+    "restaurant": "餐厅",
+    "river": "河流",
+    "road": "马路",
+    "rowing-boat": "划船",
+    "sailboat": "帆船",
+    "seagulls": "海鸥",
+    "sheep": "绵羊",
+    "singing-bowl": "颂钵",
+    "slide-projector": "幻灯机",
+    "submarine": "潜水艇",
+    "subway-station": "地铁站",
+    "supermarket": "超市",
+    "temple": "寺庙",
+    "thunder": "雷声",
+    "traffic": "交通",
+    "train": "火车",
+    "tuning-radio": "收音机",
+    "typewriter": "打字机",
+    "underwater": "水下",
+    "vinyl-effect": "黑胶唱片",
+    "walk-in-snow": "踏雪",
+    "walk-on-gravel": "踏碎石",
+    "walk-on-leaves": "踏落叶",
+    "washing-machine": "洗衣机",
+    "waterfall": "瀑布",
+    "waves": "海浪",
+    "whale": "鲸鱼",
+    "white-noise": "白噪音",
+    "wind": "风声",
+    "wind-chimes": "风铃",
+    "wind-in-trees": "林间风",
+    "windshield-wipers": "雨刮器",
+    "wolf": "狼嚎",
+    "woodpecker": "啄木鸟"
+  }
+}
