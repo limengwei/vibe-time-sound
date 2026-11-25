@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "categories": {
+    "places": {
+      "title": "场所",
+      "emoji": "🏠"
+    },
+    "noise": {
+      "title": "噪音",
+      "emoji": "🌫️"
+    },
+    "rain": {
+      "title": "雨声",
+      "emoji": "🌧️"
+    },
+    "animals": {
+      "title": "动物",
+      "emoji": "🐾"
+    },
+    "nature": {
+      "title": "自然",
+      "emoji": "🌿"
+    },
+    "things": {
+      "title": "物品",
+      "emoji": "🔔"
+    },
+    "urban": {
+      "title": "城市",
+      "emoji": "🏙️"
+    }
+  },
+  "files": [
+    {
+      "id": "animals/animals-0544",
+      "title": "羊群2",
+      "category": "animals",
+      "path": "cloud/animals/animals-0544.mp3",
+      "durationMs": 69180,
+      "size": 554307,
+      "sha256": "c9fbf7d129a7da9afefabf82ec70c151d08663ecb5bf3bd39a60fb3155e08aa0",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=4"
+    },
+    {
+      "id": "animals/birds-4064",
+      "title": "农家",
+      "category": "animals",
+      "path": "cloud/animals/birds-4064.mp3",
+      "durationMs": 77990,
+      "size": 624721,
+      "sha256": "658514a61f15dc72d532c5fb348201e3e79a17668a12163e344a758466b53893",
+      "license": "CC-BY",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=4"
+    },
+    {
+      "id": "animals/birds-5508",
+      "title": "鸟鸣22",
+      "category": "animals",
+      "path": "cloud/animals/birds-5508.mp3",
+      "durationMs": 159390,
+      "size": 1276134,
+      "sha256": "e709377cc4da7d1b3586a1dd555cd1aa5c6f150b4c22df61ec244baeef494669",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=4"
+    },
+    {
+      "id": "animals/birds-8014",
+      "title": "虫鸣鸟叫",
+      "category": "animals",
+      "path": "cloud/animals/birds-8014.mp3",
+      "durationMs": 68860,
+      "size": 551541,
+      "sha256": "486193822bce00f74587d773024ad8211b1d8310b0bddb2946a8ece4cd7b74e5",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=4"
+    },
+    {
+      "id": "animals/insects-4287",
+      "title": "虫鸣",
+      "category": "animals",
+      "path": "cloud/animals/insects-4287.mp3",
+      "durationMs": 168810,
+      "size": 1351343,
+      "sha256": "a9e9bf901da4603572f47a4bc9a3aeb55eab34d4115036db459c8e7edf19afe0",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=2"
+    },
+    {
+      "id": "animals/insects-8746",
+      "title": "虫鸣2",
+      "category": "animals",
+      "path": "cloud/animals/insects-8746.mp3",
+      "durationMs": 101110,
+      "size": 809630,
+      "sha256": "6738ed2987146a055d35918f9a6728ad11655c709e3d371257b0e55ccfa47d7a",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=2"
+    },
+    {
+      "id": "nature/fire-1503",
+      "title": "篝火3",
+      "category": "nature",
+      "path": "cloud/nature/fire-1503.mp3",
+      "durationMs": 194200,
+      "size": 1554471,
+      "sha256": "b0bddb58664d77dc34e5c6833a6afb6028fbf5ea58ceebe8c363f3f0b0438eb9",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=4"
+    },
+    {
+      "id": "nature/waves-0905",
+      "title": "海浪9",
+      "category": "nature",
+      "path": "cloud/nature/waves-0905.mp3",
+      "durationMs": 156890,
+      "size": 1122301,
+      "sha256": "d02d251b88718a4f1d61a28dc4b2455ffad7bbdae579a9fcf7c70b71a52ba776",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false"
+    },
+    {
+      "id": "nature/waves-1923",
+      "title": "海浪4",
+      "category": "nature",
+      "path": "cloud/nature/waves-1923.mp3",
+      "durationMs": 138050,
+      "size": 1105128,
+      "sha256": "ad1150858bd7e6038008a95f0793eea6d0e17d0a3154f286f85c65cfa956427b",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=5"
+    },
+    {
+      "id": "nature/waves-2589",
+      "title": "海边",
+      "category": "nature",
+      "path": "cloud/nature/waves-2589.mp3",
+      "durationMs": 178450,
+      "size": 1428419,
+      "sha256": "45c83e5b2825ea2b90d6cca9a905b74a41f26ba3f36b5eb5b4e04e70208a534d",
+      "license": "CC-BY",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=2"
+    },
+    {
+      "id": "nature/wind-9557",
+      "title": "草原风5",
+      "category": "nature",
+      "path": "cloud/nature/wind-9557.mp3",
+      "durationMs": 181060,
+      "size": 1449317,
+      "sha256": "78846bec9670e09db0e2129769f57d40f3d51367d4fe13e17b6f158347734462",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=2"
+    },
+    {
+      "id": "noise/noise-5254",
+      "title": "放映机",
+      "category": "noise",
+      "path": "cloud/noise/noise-5254.mp3",
+      "durationMs": 93310,
+      "size": 747392,
+      "sha256": "7f6eddc00c21b6c08488cbc6baec22e26d6fb9f3b9ed903a39c9ed9069174109",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=2"
+    },
+    {
+      "id": "places/indoor-2949",
+      "title": "教室",
+      "category": "places",
+      "path": "cloud/places/indoor-2949.mp3",
+      "durationMs": 74300,
+      "size": 595217,
+      "sha256": "d88ff5616c368b7031e1b2fde5509efdb7878ac6106d1413f51c056a468975db",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=2"
+    },
+    {
+      "id": "places/indoor-5473",
+      "title": "KTV走廊",
+      "category": "places",
+      "path": "cloud/places/indoor-5473.mp3",
+      "durationMs": 191260,
+      "size": 1530819,
+      "sha256": "c84c228af18c1bc3ef18ed4bdf13ee296cdc22437b4724027d3d38b4c9948fd6",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false"
+    },
+    {
+      "id": "places/indoor-8701",
+      "title": "教室2",
+      "category": "places",
+      "path": "cloud/places/indoor-8701.mp3",
+      "durationMs": 61570,
+      "size": 493235,
+      "sha256": "6b4ab688824f3113a145c3f826b6d7f2fa112908e18162b4f13f53725516ebca",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=4"
+    },
+    {
+      "id": "places/school-3522",
+      "title": "幼儿园",
+      "category": "places",
+      "path": "cloud/places/school-3522.mp3",
+      "durationMs": 230170,
+      "size": 1842469,
+      "sha256": "b70b87a18bab8978755ebf443f6727adcae9d9888f8092a95eb576a2981984d0",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=5"
+    },
+    {
+      "id": "places/school-7328",
+      "title": "幼儿园2",
+      "category": "places",
+      "path": "cloud/places/school-7328.mp3",
+      "durationMs": 118930,
+      "size": 952192,
+      "sha256": "d946953cbe5059a76921799a1725b5526ad9d99297ee4bb18fecea28d366a7c3",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=5"
+    },
+    {
+      "id": "places/school-7681",
+      "title": "校园2",
+      "category": "places",
+      "path": "cloud/places/school-7681.mp3",
+      "durationMs": 82510,
+      "size": 660837,
+      "sha256": "be2c915e1ab24cfc694a52ce9d8e2b10b92e8e095d5ae72366c8b18d6776b5cd",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false"
+    },
+    {
+      "id": "places/village-3273",
+      "title": "田野",
+      "category": "places",
+      "path": "cloud/places/village-3273.mp3",
+      "durationMs": 193680,
+      "size": 1550311,
+      "sha256": "2c2ab78abf299d8dd84a431218b19dc6fdb5196a4fc148344cf07748d7f1c885",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false"
+    },
+    {
+      "id": "places/village-8114",
+      "title": "荒野",
+      "category": "places",
+      "path": "cloud/places/village-8114.mp3",
+      "durationMs": 104280,
+      "size": 834967,
+      "sha256": "ced91af2083db4207126b9e7ca118be84f1cf274b93f0406251336cafb9b9403",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false"
+    },
+    {
+      "id": "rain/rain-3432",
+      "title": "暴风雨2",
+      "category": "rain",
+      "path": "cloud/rain/rain-3432.mp3",
+      "durationMs": 75670,
+      "size": 606121,
+      "sha256": "56a9fb1a405df1671b509576735da23fc5bdd6733a81b1482a939753139ccb40",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=5"
+    },
+    {
+      "id": "things/music-4777",
+      "title": "广播",
+      "category": "things",
+      "path": "cloud/things/music-4777.mp3",
+      "durationMs": 47620,
+      "size": 381677,
+      "sha256": "eff4a1358ad2c254c51f07383e119492213772a8efe8139e7deeb4e212c6b54b",
+      "license": "未标注",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=5"
+    },
+    {
+      "id": "urban/crowd-2391",
+      "title": "校园",
+      "category": "urban",
+      "path": "cloud/urban/crowd-2391.mp3",
+      "durationMs": 204220,
+      "size": 1634473,
+      "sha256": "3ac8e653e466b6db242bdc29089fa7a2a98d89109d9c46b1a141da16f9855c30",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false"
+    },
+    {
+      "id": "urban/crowd-3410",
+      "title": "运动会",
+      "category": "urban",
+      "path": "cloud/urban/crowd-3410.mp3",
+      "durationMs": 136300,
+      "size": 1091126,
+      "sha256": "6ef17353f3a171118c129749599aebea64cbdbdf736b688d3163433d0bda153c",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=5"
+    },
+    {
+      "id": "urban/urban-0378",
+      "title": "老街",
+      "category": "urban",
+      "path": "cloud/urban/urban-0378.mp3",
+      "durationMs": 174170,
+      "size": 1394168,
+      "sha256": "16a1d0a261b1587a2ac1fe74ecedf09abbf048d6893f2ddf2b81ce9d33df8b9c",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false&page=5"
+    },
+    {
+      "id": "urban/urban-3896",
+      "title": "老街2",
+      "category": "urban",
+      "path": "cloud/urban/urban-3896.mp3",
+      "durationMs": 68230,
+      "size": 546575,
+      "sha256": "f0327528a3e8824a09f8baacbd702b536cbf356cb167440234f69e6ab72d2482",
+      "license": "CC0",
+      "origin": "https://www.aigei.com/set/huanjingyin_baizaosh.html?term=is_vip_false"
+    }
+  ]
+}
